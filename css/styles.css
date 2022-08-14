@@ -1,0 +1,126 @@
+.link {
+    text-decoration: none;
+  }
+  .list {
+    list-style: none;
+  }
+  img {
+    display: block;
+  }
+  button {
+    font-family: inherit;
+    cursor: pointer;
+  }
+  body {
+    font-family: var(--primary-font);
+  }
+/*header*/
+.menu-link {
+ font-weight: 500;
+ font-size: 14px;
+ line-height: 16px;
+ letter-spacing: 0.02em;
+ color: #212121;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: var(--accent-color);
+}
+.contact-link {
+ font-weight: 500;
+ font-size: 14px;
+ line-height: 16px;
+ letter-spacing: 0.02em;
+ color: #757575;
+}
+.contact-phone-number:hover,
+.contact-phone-number:focus {
+  color: var(--accent-color);
+}
+.title-h1 {
+ font-weight: 900;
+ font-size: 44px;
+ line-height: 60px;
+ text-align: center;
+ letter-spacing: 0.06em;
+ text-transform: uppercase;
+ /*color: #FFFFFF;*/
+}
+.title-btn {
+ font-weight: 700;
+ font-size: 16px;
+ line-height: 30px;
+ display: flex;
+ align-items: center;
+ text-align: center;
+ letter-spacing: 0.06em;
+ /*color: #FFFFFF;*/
+}
+.features-title {
+ font-weight: 700;
+ font-size: 14px;
+ line-height: 16px;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
+ color: #212121;
+}
+.desc-features {
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 24px;
+ letter-spacing: 0.03em;
+ color: #757575;
+}
+.subject {
+ font-weight: 700;
+ font-size: 36px;
+ line-height: 42px;
+ text-align: center;
+ letter-spacing: 0.03em;
+ color: #212121;
+}
+.user {
+ font-weight: 500;
+ font-size: 16px;
+ line-height: 19px;
+ text-align: center;
+ letter-spacing: 0.03em;
+ color: #212121;
+}
+.user-content {
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 19px;
+ text-align: center;
+ letter-spacing: 0.03em;
+ color: #757575;
+}
+.logo {
+ font-weight: 700;
+ font-size: 26px;
+ line-height: 31px;
+ letter-spacing: 0.03em;
+ color: #2196F3;
+}
+.button-item {
+ font-weight: 500;
+ font-size: 16px;
+ line-height: 26px;
+ text-align: center;
+ letter-spacing: 0.03em;
+ color: #FFFFFF;
+}
+.subtitle {
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 36px;
+ letter-spacing: 0.06em;
+ color: #212121;
+}
+.desc {
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 30px;
+ letter-spacing: 0.03em;
+ color: #757575;
+}
