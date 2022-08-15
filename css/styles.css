@@ -47,11 +47,23 @@
 .button:focus {
   background-color: var(--accent-color)
 }
+.button {
+  width: 112px;
+  height: 38px;          
+  left: 726px;
+  top: 174px;
+  background: #F5F4FA;
+  border-radius: 4px;
+ }
 
+.contact-list {
+ font-family: 'Roboto';
+ font-style: normal;
+}
 .contact-link {
  font-weight: 500;
  font-size: 14px;
- line-height: 1,14;
+ line-height: 1.14;
  letter-spacing: 0.02em;
  color: var(--secondary-text-color-theme-light);
 }
@@ -59,7 +71,7 @@
 .title-h1 {
  font-weight: 900;
  font-size: 44px;
- line-height: 1,36;
+ line-height: 1.36;
  text-align: center;
  letter-spacing: 0.06em;
  text-transform: uppercase;
@@ -68,7 +80,7 @@
 .title-btn {
  font-weight: 700;
  font-size: 16px;
- line-height: 1,87;
+ line-height: 1.87;
  display: flex;
  align-items: center;
  text-align: center;
@@ -78,7 +90,7 @@
 .features-title {
  font-weight: 700;
  font-size: 14px;
- line-height: 1,14;
+ line-height: 1.14;
  letter-spacing: 0.03em;
  text-transform: uppercase;
  color: var(--primary-text-color-theme-light);
@@ -86,14 +98,14 @@
 .desc-features {
  font-weight: 400;
  font-size: 14px;
- line-height: 1,71;
+ line-height: 1.71;
  letter-spacing: 0.03em;
  color: var(--secondary-text-color-theme-light);
 }
 .subject-logo {
  font-weight: 700;
  font-size: 36px;
- line-height: 1,17;
+ line-height: 1.17;
  text-align: center;
  letter-spacing: 0.03em;
  color: var(--primary-text-color-theme-light);
@@ -101,7 +113,7 @@
 .user {
  font-weight: 500;
  font-size: 16px;
- line-height: 1,19;
+ line-height: 1.19;
  text-align: center;
  letter-spacing: 0.03em;
  color: var(--primary-text-color-theme-light);
@@ -109,25 +121,29 @@
 .user-content {
  font-weight: 400;
  font-size: 16px;
- line-height: 1,19;
+ line-height: 1.19;
  text-align: center;
  letter-spacing: 0.03em;
  color: var(--secondary-text-color-theme-light);
 }
 .logo {
+ font-family: 'Raleway';
  font-weight: 700;
  font-size: 26px;
- line-height: 1,19;
+ line-height: 1.19;
  letter-spacing: 0.03em;
  color: #000000;;
 }
 .logo-nav {
   color: #2196F3;
 }
+.logo-navigation {
+  color: #FFFFFF;
+}
 .button-item {
  font-weight: 500;
  font-size: 16px;
- line-height: 1,62;
+ line-height: 1.62;
  text-align: center;
  letter-spacing: 0.03em;
  color: var(--primary-text-color-theme-dark);
@@ -143,7 +159,7 @@
 .desc {
  font-weight: 400;
  font-size: 16px;
- line-height: 1,87;
+ line-height: 1.87;
  letter-spacing: 0.03em;
  color: var(--secondary-text-color-theme-light);
 }
